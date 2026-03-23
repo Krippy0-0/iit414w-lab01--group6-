@@ -1,0 +1,5 @@
+Model / Baseline,Accuracy,Precision,Recall,F1,ROC-AUC
+Majority class (Lab 1),0.4979,0.0,0.0,0.0,0.5
+Domain heuristic (Lab 1),0.8577,0.8583,0.8583,0.8583,0.8577
+Prior-period baseline,0.7782,0.819,0.7167,0.7644,0.7785
+Lab 2 model (LogReg),0.8243,0.8362,0.8083,0.822,0.8932
